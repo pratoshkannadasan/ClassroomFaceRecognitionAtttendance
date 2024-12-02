@@ -1,7 +1,7 @@
 # Face-Recognition-Based-Attendance-System-with-GUI-using-OpenCV
 
 There are some problems with the current attendance system like if we maintain the attendance data in paper then there is lots of paperwork we have to do for maintaining all data in the paper that is also time-consuming.
-
+gfhf
 ### PurPose:
 The basic purpose of this project is to take attendance using face detection. This program makes CSV file of present attendees automatically After successful face detection. Also, It will make a CSV file for registered student's info.
 
